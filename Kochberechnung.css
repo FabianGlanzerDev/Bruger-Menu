@@ -1,5 +1,9 @@
 body {
   background-image: url(Bild1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
     font-family: "Dancing Script", cursive;
     margin: 40px;
     font-size: 20px;
