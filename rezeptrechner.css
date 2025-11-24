@@ -1,5 +1,6 @@
-body {
+.mybody {
   background-image: url(Bild1.jpg);
+  background-repeat: no-repeat;
     font-family: "Dancing Script", cursive;
     font-size: 20px;
     background-color: rgb(65, 71, 97);
